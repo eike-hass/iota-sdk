@@ -1,0 +1,14 @@
+{
+  "name": "reproduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "@iota/sdk-wasm": "^1.1.3"
+  }
+}
